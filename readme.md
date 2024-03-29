@@ -1,13 +1,13 @@
 # SupaDupa Macarons
-Welcome to SupaDupa Macarons, an online storefront designed to bring the joy and elegance of macarons to your doorstep. Our website is a homage to the delicate, colorful, and delicious world of macarons, offering a selection tailored for joyous occasions, gifts of love, and indulgent treats for yourself.
+Welcome to SupaDupa Macarons, a mobile responsive online storefront designed to bring the joy and elegance of macarons to your doorstep. Our website is a homage to the delicate, colorful, and delicious world of macarons, offering a selection tailored for joyous occasions, gifts of love, and indulgent treats for yourself.
 
 ## Features
-Responsive Design: Our website is fully responsive, ensuring a seamless browsing experience across all devices.
-Bootstrap 5: Leveraging the latest Bootstrap framework for a modern, stylish look and feel.
-Online Shop: A dedicated page for exploring and ordering our wide range of macaron selections.
-Care Guide: Tips and tricks on how to best store and enjoy our macarons, ensuring maximum freshness and taste.
-Contact Page: Easily reach out to us with your questions, requests, or feedback.
-Social Media Integration: Follow us on Instagram and Telegram for the latest updates, offers, and behind-the-scenes peeks.
+- Responsive Design: Our website is fully responsive, ensuring a seamless browsing experience across all devices.
+- Bootstrap 5: Leveraging the latest Bootstrap framework for a modern, stylish look and feel.
+- Online Shop: A dedicated page for exploring and ordering our wide range of macaron selections.
+- Care Guide: Tips and tricks on how to best store and enjoy our macarons, ensuring maximum freshness and taste.
+- Contact Page: Easily reach out to us with your questions, requests, or feedback.
+- Social Media Integration: Follow us on Instagram and Telegram for the latest updates, offers, and behind-the-scenes peeks.
 
 ## Setup
 To view the website locally:
