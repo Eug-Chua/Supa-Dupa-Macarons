@@ -23,3 +23,5 @@ No additional setup or dependencies are required, as all necessary resources are
 - Bootstrap 5
 - Google Fonts
 
+## Project Deployment
+This project is deployed on Netlify: [https://dapper-crostata.netlify.app/](https://dapper-crostata-0ba731.netlify.app/)
